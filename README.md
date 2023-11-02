@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## good tutorials
+- Dave Gray: https://www.youtube.com/watch?v=w2h54xz6Ndw
+- https://developers.strava.com/docs/oauth-updates/
+- https://developers.strava.com/docs/reference/#api-Streams-getActivityStreams
+- https://www.npmjs.com/package/gpx-builder
+- https://github.com/nextauthjs/next-auth/blob/main/packages/next-auth/src/providers/strava.ts
+- https://next-auth.js.org/providers/strava
+- https://stackoverflow.com/questions/76591694/how-to-use-next-auth-oauth-to-fetch-from-a-google-api-e-g-youtubes-api
+- https://github.com/nextauthjs/next-auth/discussions/871
+- https://spacejelly.dev/posts/how-to-make-twitter-api-requests-with-nextauth-js-session-tokens/
+- https://authjs.dev/concepts/faq
