@@ -11,7 +11,7 @@ type Props = {
     pagetype: string,
 }
 
-export default function Card({ user, pagetype }: Props) {
+export default function Card({user, pagetype}: Props) {
 
     //console.log(user)
 
